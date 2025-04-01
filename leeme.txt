@@ -1,0 +1,8 @@
+26-1-2024
+ALO
+
+ En esta carpeta estan las diferentes versiones de script de powershell obtenido de 4sysops y modificado para los 
+requerimientos de Comarca. La última versión que hemos probado es el script RDP49.PS1 que se le agregó ciertos
+comentarios y un comando al final de espera de 30 segundos para ver los mensajes de ejecución del script antes que 
+  se cierre la ventana del script en ejecución. 
+
